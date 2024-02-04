@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Product_cart extends Model
 {
     use HasFactory;
+    
 }
